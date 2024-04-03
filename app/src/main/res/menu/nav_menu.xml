@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_Home"
+        android:icon="@drawable/homee"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_Makanan"
+        android:icon="@drawable/restaurant"
+        android:title="Makanan" />
+    <item
+        android:id="@+id/menu_Minuman"
+        android:icon="@drawable/drink"
+        android:title="Minuman" />
+
+    <item
+        android:id="@+id/menu_Favorite"
+        android:icon="@drawable/favfooc"
+        android:title="Makanan Favorite" />
+</menu>
